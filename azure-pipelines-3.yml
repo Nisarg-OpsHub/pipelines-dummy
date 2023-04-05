@@ -19,7 +19,7 @@ stages:
       inputs:
         workItemType: 'Task'
         title: '$(Build.BuildId)'
-        assignedTo: 'Nisarg Koradia nisarg.koradia@opshub.com'
+        assignedTo: 'Nisarg Koradia <nisarg.koradia@opshub.com>'
 
 - stage: Check1
   jobs:
